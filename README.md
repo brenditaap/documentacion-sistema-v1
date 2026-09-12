@@ -1,4 +1,4 @@
-*# Sistema de Gestión de Inventario - TechStore
+**Sistema de Gestión de Inventario - TechStore**
 
 ## 1. Descripción del Proyecto
 Este sistema permite **gestionar inventarios en tiempo real** y **optimizar las ventas** de forma automatizada. Fue desarrollado especialmente para *TechStore* con el fin de agilizar la atención a sus clientes.
@@ -22,6 +22,11 @@ def verificar_stock(cantidad):
         return "Producto Disponible"
     else:
         return "Sin Stock"*
+´´´
 
-## 5. Enlaces Utiles
-- [Repositorio Oficial en GitHub](https://github.com)
+## 5. Enlaces Útiles
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Ver Manual de Usuario](docs/manual_usuario.md)
+- [Ver Especificación de API](docs/api_endpoints.md)
+- [Repositorio Oficial en GitHub](https://github.com/brenditaap/documentacion-
+sistema-v1)
