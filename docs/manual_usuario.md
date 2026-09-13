@@ -23,7 +23,7 @@
 ## 4. Captura de Pantalla del Sistema
 *(Asegúrate de guardar una imagen llamada ´pantalla.png´ dentro de la carpeta ´docs/assets/´ o usa una imagen de prueba)*.
 
-![Vista Previa del Sistema](assets/pantalla.png)
+![Vista Previa del Sistema](assets/pantalla.png))
 
 ## 5. Navegación
 - [Ver Arquitectura del Sistema](arquitectura.md)
