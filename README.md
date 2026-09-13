@@ -15,18 +15,19 @@ Este sistema permite **gestionar inventarios en tiempo real** y **optimizar las 
 | Inventario | Registro y conteo de productos | En Proceso |
 | Facturación | Generación de comprobantes de pago | Pendiente |
 
-## 4. Ejemplo de Código Fuente
+## 4. Ejemplo de Código Fuente 
+
 ```python
 def verificar_stock(cantidad):
     if cantidad > 0:
         return "Producto Disponible"
     else:
-        return "Sin Stock"*
-´´´
+        return "Sin Stock"
+```
 
 ## 5. Enlaces Útiles
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Especificación de API](docs/api_endpoints.md)
-- [Repositorio Oficial en GitHub](https://github.com/brenditaap/documentacion-
-sistema-v1)
+- [Repositorio Oficial GitHub](https://github.com/brenditaap/documentacion-sistema-v1)
+
