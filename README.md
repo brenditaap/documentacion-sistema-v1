@@ -27,6 +27,9 @@ def verificar_stock(cantidad):
 
 ## 5. Enlaces Útiles
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Ver Casos de Uso Hospitalario](docs/arquitectura/caso_de_uso.md)
+- [Ver Diagrama de Secuencia de Login](docs/arquitectura/secuencia_autenticacion.md)
+- [Ver Arquitectura de Sistema](docs/arquitectura.md)
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Especificación de API](docs/api_endpoints.md)
 - [Repositorio Oficial GitHub](https://github.com/brenditaap/documentacion-sistema-v1)
