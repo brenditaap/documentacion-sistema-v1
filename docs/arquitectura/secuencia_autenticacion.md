@@ -11,5 +11,5 @@ Se describe la interacción temporal entre la interfaz móvil, la API backend y 
 2. La aplicación envía una solicitud HTTP POST al sevidor. 
 3. El servidor valida la información consultando la base de datos.
 4. La base de datos responde con los datos del usuario.
-5. El servidor genera y retorna un token de sesión `200 OK´.
+5. El servidor genera y retorna un token de sesión `200 OK`.
 6. La aplicación muestra la pantalla principal.
