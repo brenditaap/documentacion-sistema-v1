@@ -32,5 +32,12 @@ def verificar_stock(cantidad):
 - [Ver Arquitectura de Sistema](docs/arquitectura.md)
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Especificación de API](docs/api_endpoints.md)
+- [Ver Guía de Despliegue](docs/despliegue.md)
+- [Ver Politícas de Seguridad](docs/seguridad.md)
+- [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
 - [Repositorio Oficial GitHub](https://github.com/brenditaap/documentacion-sistema-v1)
 
+# Portal Web de Documentación
+
+**Sitio Web en Vivo:** [Haz clic aquí para ver la Documentación Publicada](https://brenditaap.github.io/documentacion-sistema-v1)
+gi
