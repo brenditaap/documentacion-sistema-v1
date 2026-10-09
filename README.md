@@ -1,5 +1,6 @@
 **Sistema de Gestión de Inventario - TechStore**
 
+
 ## 1. Descripción del Proyecto
 Este sistema permite **gestionar inventarios en tiempo real** y **optimizar las ventas** de forma automatizada. Fue desarrollado especialmente para *TechStore* con el fin de agilizar la atención a sus clientes.
 
