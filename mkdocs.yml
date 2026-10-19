@@ -1,14 +1,18 @@
-site_name: Documentación Oficial - Proyecto de Emprendedurismo
-
+site_name: UniRoute - Documentación Oficial
+site_description: Manuales técnicos y documentación del proyecto UniRoute.
 site_author: Estudiantes de 3ro Software - Complejo Educativo Delgado
+
 theme:
-name: material
-language: es
+  name: material
+  language: es
 nav:
-- Inicio: index.md
-- Manual de Usuario UX: manual_usuario_ux.md
-- Centro de Ayuda & Videos:
-- Preguntas Frecuentes (FAQ): faq.md
-- Especificaciones Técnicas:
-- Arquitectura y Despliegue: arquitectura_despliegue.md
-- Especificación de API: api_endpoints.md
+
+  - Inicio: index.md
+  - Manual de Usuario UX: manual_usuario_ux.md
+  - Centro de Ayuda y Videos:
+      - Preguntas Frecuentes (FAQ): faq.md
+  - Manuales Técnicos:
+      - Arquitectura y Despliegue: arquitectura_despliegue.md
+      - Guía de Instalación: despliegue.md
+      - Especificación de API: api_endpoints.md
+      - Seguridad y Mantenimiento: seguridad.md

@@ -19,11 +19,16 @@ UniRoute esta dirigida principamente a estudiantes de bachillerato que buscan op
 
 ---
 
+
+
 ## 🎬 Videotutorial de Demostración del Sistema
 
 Si prefieres ver la explicación en video, visualiza el recorrido guiado por el equipo de desarrollo:
 
-<video src="videos/videotutorial_proyecto.mp4" controls width="100%">
+<video controls width="100%">
+  <source src="videos/videotutorial_proyecto.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video HTML5.
-  [Haz clic aquí para descargar el video](videos/videotutorial_proyecto.mp4).
 </video>
+
+[Haz clic aquí para descargar el video](videos/videotutorial_proyecto.mp4).
+
