@@ -41,4 +41,8 @@ def verificar_stock(cantidad):
 # Portal Web de Documentación
 
 **Sitio Web en Vivo:** [Haz clic aquí para ver la Documentación Publicada](https://brenditaap.github.io/documentacion-sistema-v1)
-gi
+
+## Licencia y Gobernanza
+* Este proyecto se distribuye bajo los términos de la **[Licencia MIT](LICENSE)**.
+* Consulta nuestra **[Guía de Contribución](CONTRIBUTING.md)** para reportar fallos o
+proponer mejoras.
